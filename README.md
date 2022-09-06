@@ -2,8 +2,6 @@
 ![](https://i.imgur.com/Fe3bdyu.png)
 아이템 추가 제거, 그리고 상태별 할일을 볼수있는 앱입니다. 
 
-* 데모앱🎬:https://noona-todolist.netlify.app
-
 ## 기능
 * 유저는 할일을 추가할 수 있다.
 * 각 할일에 삭제와 체크버튼이 있다.
@@ -16,4 +14,4 @@
 ## 사용한 기술
 * HTML
 * CSS
-* Vanila Javascript
+* Javascript
